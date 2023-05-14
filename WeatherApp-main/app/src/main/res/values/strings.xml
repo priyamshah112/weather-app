@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="unit_menu">Units</string>
+    <string name="calendar_menu">Calendar</string>
+    <string name="loc_menu">location</string>
+    <string name="loc_main">Chicago,Illinois</string>
+    <string name="noon_temp_main">72 F</string>
+    <string name="noon_time_main">Afternoon</string>
+    <string name="morning_time_main_l">8am</string>
+    <string name="noon_time_main_l">1pm</string>
+    <string name="evening_time_main_l">5pm</string>
+    <string name="night_time_main_l">11pm</string>
+    <string name="evening_temp_main">72 F</string>
+    <string name="evening_time_main">Evening</string>
+    <string name="night_temp_main">72 F</string>
+    <string name="night_time_main">Night</string>
+    <string name="sunrise_main">Sunrise : 7:00 AM</string>
+    <string name="sunset_main">Sunset 6:20 PM</string>
+    <string name="humidity_main">Humidity : 51%</string>
+    <string name="datetime_main">Thu, Oct 15 10:51 PM, 2022</string>
+    <string name="dialogue_message">"For US loc, enter as 'City', or 'City, State'\n For International locs enter as 'City,Country'"</string>
+    <string name="invalid_city_name">"City name is not valid, try again!"</string>
+    <string name="noInternet_main">\nNo Internet Connection</string>
+    <string name="temp_main">72 F</string>
+    <string name="tempFeelsLike_main">Feels like 71 F</string>
+    <string name="uvIndex_main">UV Index : 51% </string>
+    <string name="uv_index_main">UV Index : 51%</string>
+    <string name="visibility_main">Visibility : 7.1 Miles</string>
+    <string name="morning_temp_main">72 F</string>
+    <string name="morning_time_main">Morning</string>
+    <string name="weatherDescription_main">Broken Clouds (75% Clouds)</string>
+    <string name="windInfo_main">Winds : W at 5 mph gusting at 2 mph</string>
+    <string name="no_internet_msg">No Internet Connection</string>
+    <string name="dialogue_title">"Enter loc"</string>
+</resources>

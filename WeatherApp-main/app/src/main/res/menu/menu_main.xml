@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuUnitTemp"
+        android:icon="@drawable/units_f"
+        android:title="@string/unit_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuDayWiseForecast"
+        android:icon="@drawable/daily"
+        android:title="@string/calendar_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menulocChange"
+        android:icon="@drawable/location"
+        android:title="@string/loc_menu"
+        app:showAsAction="ifRoom" />
+</menu>
